@@ -25,7 +25,7 @@ Please contact me through my email if you are interessted in using, editing, or 
 - Author: Leo
 - Acadmeic Level: Undergraduate
 
-- *If you wish to discuss more I am open to chat at different messaging applications*
+*If you wish to discuss more I am open to chat at different messaging applications*
 - Discord: fenri409 (Most Active)
 
 Thank you and I hope you enjoy learning or using the application
