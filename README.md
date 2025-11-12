@@ -18,7 +18,7 @@ Please contact me through my email if you are interessted in using, editing, or 
 - Javascript
 - Node.js
 
-* Note that these can change depending on the future features I decide to use *
+*Note that these can change depending on the future features I decide to use*
 
 # Contact Details
 
